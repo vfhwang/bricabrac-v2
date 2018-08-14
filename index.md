@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Bricabrac
-date-of-party: 12/12/12
+date-of-party: 10/08/18
 location-of-party: The Macbeth Hoxton
-time-of-party: 12pm - 12am
+time-of-party: 9PM - 3AM
 event-link: https://www.facebook.com/events/1432992036847711/
 tickets-link: https://www.residentadvisor.net/events/1140326
 location-link: https://goo.gl/maps/xqPwRkjkiiB2
