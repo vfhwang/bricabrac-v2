@@ -58,3 +58,5 @@ fields:
   label: door-price
   description: Price of a tic on the door
   default: "£5"
+pages:
+- index.md
