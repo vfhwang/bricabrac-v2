@@ -1,0 +1,62 @@
+---
+label: index.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: home
+- type: text
+  label: date-of-party
+  name: date-of-party
+  description: 'eg: 12/12/12'
+- type: text
+  label: location-of-party
+  name: location-of-party
+  description: 'eg: The Macbeth Hoxton'
+- type: text
+  label: time-of-party
+  name: time-of-party
+  description: 'eg : 12pm - 12am'
+- type: text
+  label: event-link
+  name: event-link
+  description: link to the facebook
+- type: text
+  label: tickets-link
+  name: tickets-link
+  description: Link to RA
+- type: text
+  name: location-link
+  label: location-link
+  description: Link to the google maps
+- type: text
+  label: big-number
+  name: big-number
+  description: 'What version bricabrac is this eg: 5'
+- type: text
+  label: top-banner
+  name: top-banner
+  default: "hiphop \t&#183; disco \t&#183; funk  &#183; pop &#183; soul &#183; rap
+    &#183; ska  &#183; r&b &#183; grime &#183; calypso &#183; breakbeat&#183; dance
+    &#183;"
+  description: 'What appears in the top banner eg: genres'
+- type: text
+  name: early-price
+  label: early-price
+  description: Price of an early tic
+  default: "£3"
+- type: text
+  label: normal-price
+  name: normal-price
+  description: Price of a normal tic
+  default: "£4"
+- type: text
+  name: door-price
+  label: door-price
+  description: Price of a tic on the door
+  default: "£5"
+pages:
+- index.md
